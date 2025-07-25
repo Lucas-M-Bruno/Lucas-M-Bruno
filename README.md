@@ -6,6 +6,7 @@ Sou um desenvolvedor web de 23 anos, focado em front-end e apaixonado por criar 
 - HTML5, CSS3, JavaScript
 - Bootstrap, CSS Grid, Flexbox
 - Git e GitHub
+- React
 
 ## 📚 O que estou aprendendo
 - Aprofundando meus conhecimentos em JavaScript
